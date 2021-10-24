@@ -7,10 +7,10 @@
 ### Zylinder = Kreis_Umfang * Höhe + Kreis_fläche * 2
 
 # Umfang
-### Kreis = 2*π*r
+### Kreis = 2 * π * r
 
 # Volumen
-### Zylinder = π*r²*h
+### Zylinder = π * r² * h
 ### Prisma = Zerschnipseln
 
 # Sachen In formen zerteilen
